@@ -8,6 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
+            "runtimeExecutable": "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser",
             "file": "/Users/gouriprasadm/Documents/Freecodecamp/BE/2/GitHub/views/index.html"
         }
     ]
