@@ -11,6 +11,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "git://github.com/mgouriprasad/boilerplate-npm.git"
 	}
 }
