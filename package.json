@@ -4,6 +4,7 @@
 	"description": "My first project in Free code camp's Back end development course",
 	"keywords":["learning","backend","project","freecodecamp"],
 	"license": "noneasofnow",
+	"version": "0.0.0",
 	"dependencies": {
 		"express": "^4.17.3"
 	},
