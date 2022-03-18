@@ -3,6 +3,7 @@
 	"author": "Gouri Prasad M",
 	"description": "My first project in Free code camp's Back end development course",
 	"keywords":["learning","backend","project","freecodecamp"],
+	"license": "noneasofnow",
 	"dependencies": {
 		"express": "^4.17.3"
 	},
