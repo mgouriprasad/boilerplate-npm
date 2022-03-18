@@ -1,11 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Gouri Prasad M",
+	"description": "My first project in Free code camp's Back end development course",
 	"dependencies": {
 		"express": "^4.17.3"
 	},
 	"main": "server.js",
 	"scripts": {
+		"start": "node server.js",
 		"build": "node server.js"
 	},
 	"repository": {
