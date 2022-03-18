@@ -6,7 +6,8 @@
 	"license": "noneasofnow",
 	"version": "0.0.0",
 	"dependencies": {
-		"express": "^4.17.3"
+		"express": "^4.17.3",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
